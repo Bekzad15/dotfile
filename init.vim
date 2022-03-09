@@ -19,5 +19,6 @@ Plug 'dyng/ctrlsf.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'tpope/vim-sensible'
 Plug 'tpope/vim-surround'
+Plug 'christoomey/vim-tmux-navigator'
 call plug#end() "Перестать это делать
 
